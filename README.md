@@ -1,4 +1,7 @@
-# test coverage for  [sc5-styleguide (v1.6.0)](https://github.com/SC5/sc5-styleguide#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-sc5-styleguide.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sc5-styleguide) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sc5-styleguide.svg)](https://travis-ci.org/npmtest/node-npmtest-sc5-styleguide)
+# npmtest-sc5-styleguide
+
+#### basic test coverage for  [sc5-styleguide (v1.6.0)](https://github.com/SC5/sc5-styleguide#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-sc5-styleguide.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sc5-styleguide) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sc5-styleguide.svg)](https://travis-ci.org/npmtest/node-npmtest-sc5-styleguide)
+
 #### Styleguide generator is a handy little tool that helps you generate good looking styleguides from stylesheets using KSS notation.
 
 [![NPM](https://nodei.co/npm/sc5-styleguide.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sc5-styleguide)
